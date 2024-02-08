@@ -1,1 +1,1 @@
-SELECT * FROM MER4.Client;
+SELECT * FROM MER4.Polissa;
